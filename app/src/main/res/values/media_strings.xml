@@ -1,0 +1,5 @@
+<resources>
+    <string name="media_play">Play</string>
+    <string name="media_pause">Pause</string>
+    <string name="media_progress">Download progress</string>
+</resources>
